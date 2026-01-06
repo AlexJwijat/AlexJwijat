@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Alex Jwijat</h1>
-  <p><strong>Engineering systems that stay fast, observable, and boring in production.</strong></p>
 
   <p>
     <a href="https://alexjwijat.com"><strong>Website</strong></a>
