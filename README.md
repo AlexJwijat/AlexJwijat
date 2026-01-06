@@ -32,37 +32,6 @@
 
 ### `> cat /proc/skills`
 
-```typescript
-const alex = {
-  focus: ["full-stack", "systems", "security", "distributed systems"],
-  builds: [
-    "high-throughput APIs",
-    "secure auth + crypto plumbing",
-    "observability + incident-ready tooling",
-    "automation and developer velocity workflows",
-    "CI/CD pipelines that enforce quality + security"
-  ],
-  languages: ["TypeScript", "Python", "JavaScript", "Rust (in progress)", "Go (in progress)"],
-  stack: [
-    "Next.js",
-    "React",
-    "Node.js",
-    "PostgreSQL",
-    "Redis",
-    "Docker",
-    "Kubernetes",
-    "Terraform",
-    "GitHub Actions",
-    "AWS",
-    "Linux",
-    "GraphQL",
-    "Prometheus",
-    "Grafana"
-  ],
-  operating_mode: ["threat model → build → benchmark → harden → ship"],
-  signal: "clean code, strong defaults, measurable performance"
-} as const;
-```
 
 </td><td valign="top" width="50%">
 
@@ -113,23 +82,6 @@ const alex = {
 
 ---
 
-<!-- Languages chart -->
-### 💻 Languages
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash&theme=light" />
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash&theme=dark" alt="languages" />
-</picture>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&hide_title=true&hide_progress=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&hide_title=true&hide_progress=true&bg_color=00000000&title_color=0969da&text_color=24292f&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&hide_title=true&hide_progress=true&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-</picture>
-</div>
-
 ---
 
 <!-- Connect section -->
@@ -154,7 +106,7 @@ const alex = {
 │   Thanks for stopping by                                       │
 │                                                                │
 │   $ uptime                                                     │
-│   online since 1997, building since 2016                       │
+│   online since 2000, building since 2016                       │
 │                                                                │
 │   $ exit                                                       │
 │   Connection to github.com closed.                             │
