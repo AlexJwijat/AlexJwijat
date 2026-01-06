@@ -1,110 +1,45 @@
-```
- █████╗ ██╗     ███████╗██╗  ██╗         ██╗██╗    ██╗██╗     ██╗ █████╗ ████████╗
-██╔══██╗██║     ██╔════╝╚██╗██╔╝         ██║██║    ██║██║     ██║██╔══██╗╚══██╔══╝
-███████║██║     █████╗   ╚███╔╝          ██║██║ █╗ ██║██║     ██║███████║   ██║   
-██╔══██║██║     ██╔══╝   ██╔██╗     ██   ██║██║███╗██║██║██   ██║██╔══██║   ██║   
-██║  ██║███████╗███████╗██╔╝ ██╗    ╚█████╔╝╚███╔███╔╝██║╚█████╔╝██║  ██║   ██║   
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝     ╚════╝  ╚══╝╚══╝ ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝   
-```
-
 <div align="center">
 
-```diff
-+ SENIOR FULL STACK ENGINEER | TECHNICAL LEADER | CYBERSECURITY SPECIALIST
-```
+<!-- Dynamic typing SVG -->
+<a href="https://alexjwijat.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=Alex+Jwijat;Full+Stack+%7C+Security+%7C+Systems" alt="Typing SVG" />
+</a>
 
-[![Website](https://img.shields.io/badge/▸_WEBSITE-alexjwijat.com-00ff41?style=for-the-badge&labelColor=0a0a0f)](https://alexjwijat.com)
-[![LinkedIn](https://img.shields.io/badge/▸_LINKEDIN-alexjwijat-0affef?style=for-the-badge&labelColor=0a0a0f&logo=linkedin&logoColor=0affef)](https://www.linkedin.com/in/alexjwijat)
-[![Email](https://img.shields.io/badge/▸_EMAIL-AlexJwijat@ajayit.com-ff00ff?style=for-the-badge&labelColor=0a0a0f)](mailto:AlexJwijat@ajayit.com)
+<!-- Animated wave -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 
 </div>
 
----
-
-```js
-// system.status
-const alex = {
-    location: "Riverside, CA",
-    experience: "8+ years",
-    status: "Open to new opportunities",
-    languages: ["English ████████████ Fluent", 
-                "Arabic  ████████████ Fluent", 
-                "Spanish ████░░░░░░░░ Basic"]
-};
-```
-
----
-
-## `> cat ./about.txt`
-
-```
-Full Stack Developer with 8+ years of experience in web development, 
-network administration, and cybersecurity. Expert in building scalable 
-applications using React, Next.js, TypeScript, and Python.
-
-Technical leader with proven ability to architect solutions, manage 
-complex projects, and lead engineering teams of up to 12 developers.
-Strong background in IT management, security practices, and automation.
-```
-
----
-
-## `> ls -la ./current_roles/`
-
-```
-drwxr-xr-x  Private Investigator - Cyber Security   @ Above Limits Investigations
-drwxr-xr-x  Director of Information Technology      @ Jamison Empting Cronin, LLP
-drwxr-xr-x  Partner & Full Stack Engineer           @ Akera LLC
-drwxr-xr-x  Full Stack Developer & IT Manager       @ Shannon Oh Jamison, DDS
-```
-
----
-
-## `> neofetch --skills`
-
+<!-- About section with custom HTML layout -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### `[ LANGUAGES ]`
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+### `$ whoami`
 
-### `[ FRONTEND ]`
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### `[ BACKEND ]`
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-00ff41?style=flat-square&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+```typescript
+const alex = {
+  location: "Riverside, CA",
+  focus: ["distributed systems", "security", "web"],
+  currently: "building email infrastructure at scale",
+  languages: {
+    fluent: ["TypeScript", "Python", "JavaScript"],
+    learning: ["Rust", "Go"],
+    speak: ["English", "Arabic", "Spanish"]
+  }
+} as const;
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### `[ DATABASES ]`
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### `$ uptime`
 
-### `[ DEVOPS & CLOUD ]`
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-
-### `[ SECURITY ]`
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff3333?style=flat-square&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-ff9500?style=flat-square&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Pen_Testing-0affef?style=flat-square&logoColor=white)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-00ff41?style=flat-square&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&hide_border=true" alt="stats" />
+</picture>
 
 </td>
 </tr>
@@ -112,74 +47,185 @@ drwxr-xr-x  Full Stack Developer & IT Manager       @ Shannon Oh Jamison, DDS
 
 ---
 
-## `> ps aux | grep projects`
+<!-- Collapsible stack section -->
+<details open>
+<summary><b>⚡ Stack</b></summary>
+<br>
+
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  </a>
+  <br><sub>TypeScript</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  </a>
+  <br><sub>React</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  </a>
+  <br><sub>Next.js</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  </a>
+  <br><sub>Node.js</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  </a>
+  <br><sub>Python</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+  </a>
+  <br><sub>Rust</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+  </a>
+  <br><sub>Go</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  </a>
+  <br><sub>PostgreSQL</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  </a>
+  <br><sub>Redis</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  </a>
+  <br><sub>MongoDB</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  </a>
+  <br><sub>Docker</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+  </a>
+  <br><sub>AWS</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  </a>
+  <br><sub>Linux</sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+  </a>
+  <br><sub>GraphQL</sub>
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+<!-- Projects with terminal aesthetic -->
+<details open>
+<summary><b>🔨 Building</b></summary>
+<br>
 
 ```diff
-@@ ACTIVE DEVELOPMENT @@
++ AkeraMail
+! Cloud-native email platform | 500k+ concurrent users
+# next.js • typescript • postgresql • redis • aws
+@@ Lead Architect @@
 
-+ [PID 001] AkeraMail
-  │ Cloud-native email platform designed for 500K+ concurrent users
-  │ Stack: Next.js, TypeScript, PostgreSQL, Redis, AWS
-  └ Role: Lead Architect
-
-+ [PID 002] Unified Law Firm Portal  
-  │ Enterprise platform for 25+ attorneys: DMS, CMS, AI Integration
-  │ Stack: Next.js, React, Python, PostgreSQL, Docker
-  └ Role: Technical Lead
++ Enterprise Legal Portal  
+! Unified DMS/CMS with AI integration | 25+ attorneys
+# next.js • python • docker • postgresql
+@@ Technical Lead @@
 ```
+
+</details>
 
 ---
 
-## `> cat /var/log/stats.log`
+<!-- Activity graph -->
+<details>
+<summary><b>📊 Activity</b></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexJwijat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexJwijat&bg_color=ffffff&color=0969da&line=0969da&point=0969da&area_color=0969da&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexJwijat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</picture>
 
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AlexJwijat&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=AlexJwijat&background=ffffff&border=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=57606a&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexJwijat&hide_border=true" alt="Streak Stats" />
+</picture>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&bg_color=0a0a0f&title_color=00ff41&text_color=f0f0f0&icon_color=0affef&border_color=00ff41&hide_border=false)
+</details>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&bg_color=0a0a0f&title_color=00ff41&text_color=f0f0f0&border_color=00ff41&hide_border=false)
+---
+
+<!-- Languages chart -->
+<details>
+<summary><b>💻 Languages</b></summary>
+<br>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=donut-vertical&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=donut-vertical&bg_color=00000000&title_color=0969da&text_color=24292f&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=donut-vertical&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
+</div>
+
+</details>
+
+---
+
+<!-- Connect section -->
+<div align="center">
+
+<a href="https://alexjwijat.com">
+  <img src="https://img.shields.io/badge/website-0d1117?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+</a>
+<a href="https://www.linkedin.com/in/alexjwijat">
+  <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="mailto:AlexJwijat@ajayit.com">
+  <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AlexJwijat&style=for-the-badge&color=0d1117&labelColor=0d1117&label=views" alt="Profile Views" />
 
 </div>
 
----
-
-## `> cat ./learning.queue`
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  NEXT ON THE STACK                                                  │
-├─────────────────────────────────────────────────────────────────────┤
-│  ⟩ Kubernetes        █░░░░░░░░░  Orchestration mastery              │
-│  ⟩ Terraform         █░░░░░░░░░  Infrastructure as Code             │
-│  ⟩ Supabase          █░░░░░░░░░  Backend as a Service               │
-│  ⟩ Go                █░░░░░░░░░  Systems programming                │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   "Code is like humor. When you have to explain it, it's bad."   ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AlexJwijat&color=00ff41&style=flat-square&label=VISITORS)
-
-</div>
-
----
-
-<div align="center">
-
-```
-[SIGNAL TERMINATED] — EOF
-```
-
-</div>
-
-
-
+<!-- Easter egg: view raw to see the source -->
+<!-- Built with: HTML tables, picture elements for theme detection, SVG animations, collapsible details, diff syntax highlighting -->
