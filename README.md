@@ -30,13 +30,6 @@
 <table>
 <tr><td valign="top" width="50%">
 
-### `> cat /proc/skills`
-
-
-</td><td valign="top" width="50%">
-
-### `$ telemetry`
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&cache_seconds=21600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true&include_all_commits=true&cache_seconds=21600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
