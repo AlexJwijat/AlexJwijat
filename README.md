@@ -70,18 +70,6 @@ or block remote images. The plain Markdown embed below is the most compatible op
   <img src="https://skillicons.dev/icons?i=tailwind,prisma,fastapi,vitest,playwright,kafka&theme=dark" alt="tooling" />
 </div>
 
-<details>
-  <summary><strong>What I optimize for (the “advanced” stuff)</strong></summary>
-  <br />
-  <ul>
-    <li><strong>Reliability</strong>: SLOs, error budgets, graceful degradation, idempotency.</li>
-    <li><strong>Performance</strong>: p95/p99 latency, backpressure, caching strategy, profiling-first.</li>
-    <li><strong>Observability</strong>: structured logs, tracing, RED/USE metrics, actionable alerts.</li>
-    <li><strong>Security</strong>: least privilege, secrets hygiene, threat modeling, safe-by-default APIs.</li>
-    <li><strong>Operability</strong>: predictable deploys, runbooks, fast rollback, simple on-call.</li>
-  </ul>
-</details>
-
 ---
 
 ## Signals
