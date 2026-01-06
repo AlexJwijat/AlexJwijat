@@ -1,18 +1,37 @@
+<!-- Matrix-style animated header -->
 <div align="center">
 
 <h1>Alex Jwijat</h1>
 
-<!-- Animated wave -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+<br>
+
+<!-- Animated metrics bar -->
+<img src="https://img.shields.io/badge/SYSTEMS-online-58a6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/STATUS-coding-58a6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LOCATION-Riverside%2C%20CA-58a6ff?style=flat-square&labelColor=0d1117" />
 
 </div>
 
-<!-- About section with custom HTML layout -->
-<table>
-<tr>
-<td width="55%" valign="top">
+<br>
 
-### `$ whoami`
+<!-- Snake eating contributions -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating contributions" width="100%" />
+  </picture>
+</div>
+
+<br>
+
+---
+
+<!-- Main grid layout -->
+<table>
+<tr><td valign="top" width="50%">
+
+### `> cat /proc/skills`
 
 ```typescript
 const alex = {
@@ -46,8 +65,7 @@ const alex = {
 } as const;
 ```
 
-</td>
-<td width="45%" valign="top">
+</td><td valign="top" width="50%">
 
 ### `$ telemetry`
 
@@ -100,6 +118,7 @@ const alex = {
 ### 💻 Languages
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&bg_color=00000000&title_color=0969da&text_color=24292f&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
@@ -124,7 +143,20 @@ const alex = {
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AlexJwijat&style=for-the-badge&color=0d1117&labelColor=0d1117&label=views" alt="Profile Views" />
+```
+╭────────────────────────────────────────────────────────────────╮
+│                                                                │
+│   $ echo "Thanks for stopping by"                              │
+│   Thanks for stopping by                                       │
+│                                                                │
+│   $ uptime                                                     │
+│   online since 1997, building since 2016                       │
+│                                                                │
+│   $ exit                                                       │
+│   Connection to github.com closed.                             │
+│                                                                │
+╰────────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
