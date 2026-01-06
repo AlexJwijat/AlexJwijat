@@ -1,8 +1,3 @@
-<!--
-Profile README — Alex Jwijat
-Design goals: fast to scan, works in light/dark, "advanced" without being noisy.
--->
-
 <div align="center">
   <h1>Alex Jwijat</h1>
   <p><strong>Engineering systems that stay fast, observable, and boring in production.</strong></p>
@@ -107,14 +102,3 @@ Design goals: fast to scan, works in light/dark, "advanced" without being noisy.
 ```
 
 </details>
-
-<!-- Optional widget: contribution snake (requires a workflow in your profile repo) -->
-<!--
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating contributions" width="100%" />
-  </picture>
-</div>
--->
