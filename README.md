@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Dynamic typing SVG -->
-<a href="https://alexjwijat.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=Alex+Jwijat;Full+Stack+%7C+Security+%7C+Systems" alt="Typing SVG" />
-</a>
+<h1>Alex Jwijat</h1>
 
 <!-- Animated wave -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
@@ -19,26 +16,45 @@
 
 ```typescript
 const alex = {
-  location: "Riverside, CA",
-  focus: ["distributed systems", "security", "web"],
-  currently: "building email infrastructure at scale",
-  languages: {
-    fluent: ["TypeScript", "Python", "JavaScript"],
-    learning: ["Rust", "Go"],
-    speak: ["English", "Arabic", "Spanish"]
-  }
+  focus: ["full-stack", "systems", "security", "distributed systems"],
+  builds: [
+    "high-throughput APIs",
+    "secure auth + crypto plumbing",
+    "observability + incident-ready tooling",
+    "automation and developer velocity workflows",
+    "CI/CD pipelines that enforce quality + security"
+  ],
+  languages: ["TypeScript", "Python", "JavaScript", "Rust (in progress)", "Go (in progress)"],
+  stack: [
+    "Next.js",
+    "React",
+    "Node.js",
+    "PostgreSQL",
+    "Redis",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "GitHub Actions",
+    "AWS",
+    "Linux",
+    "GraphQL",
+    "Prometheus",
+    "Grafana"
+  ],
+  operating_mode: ["threat model → build → benchmark → harden → ship"],
+  signal: "clean code, strong defaults, measurable performance"
 } as const;
 ```
 
 </td>
 <td width="45%" valign="top">
 
-### `$ uptime`
+### `$ telemetry`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&hide_border=true" alt="stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&cache_seconds=21600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true&include_all_commits=true&cache_seconds=21600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&hide_border=true&include_all_commits=true" alt="stats" />
 </picture>
 
 </td>
@@ -47,131 +63,22 @@ const alex = {
 
 ---
 
-<!-- Collapsible stack section -->
-<details open>
-<summary><b>⚡ Stack</b></summary>
-<br>
+### ⚡ Stack
 
-<table>
-<tr>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-  </a>
-  <br><sub>TypeScript</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  </a>
-  <br><sub>React</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-  </a>
-  <br><sub>Next.js</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  </a>
-  <br><sub>Node.js</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  </a>
-  <br><sub>Python</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-  </a>
-  <br><sub>Rust</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-  </a>
-  <br><sub>Go</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  </a>
-  <br><sub>PostgreSQL</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-  </a>
-  <br><sub>Redis</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  </a>
-  <br><sub>MongoDB</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  </a>
-  <br><sub>Docker</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-  </a>
-  <br><sub>AWS</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-  </a>
-  <br><sub>Linux</sub>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-  </a>
-  <br><sub>GraphQL</sub>
-</td>
-</tr>
-</table>
-
-</details>
-
----
-
-<!-- Projects with terminal aesthetic -->
-<details open>
-<summary><b>🔨 Building</b></summary>
-<br>
-
-```diff
-+ AkeraMail
-! Cloud-native email platform | 500k+ concurrent users
-# next.js • typescript • postgresql • redis • aws
-@@ Lead Architect @@
-
-+ Enterprise Legal Portal  
-! Unified DMS/CMS with AI integration | 25+ attorneys
-# next.js • python • docker • postgresql
-@@ Technical Lead @@
-```
-
-</details>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,go,rust&theme=dark" alt="languages-and-frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,graphql,docker,nginx&theme=dark" alt="data-and-network" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,githubactions,prometheus,grafana,cloudflare,vercel&theme=dark" alt="platform-and-ops" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=tailwind,prisma,fastapi,vitest,playwright,kafka&theme=dark" alt="tooling" />
+</div>
 
 ---
 
 <!-- Activity graph -->
-<details>
-<summary><b>📊 Activity</b></summary>
-<br>
+### 📊 Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexJwijat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true" />
@@ -187,24 +94,18 @@ const alex = {
 </picture>
 </div>
 
-</details>
-
 ---
 
 <!-- Languages chart -->
-<details>
-<summary><b>💻 Languages</b></summary>
-<br>
+### 💻 Languages
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=donut-vertical&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=donut-vertical&bg_color=00000000&title_color=0969da&text_color=24292f&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=donut-vertical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&bg_color=00000000&title_color=0969da&text_color=24292f&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </picture>
 </div>
-
-</details>
 
 ---
 
@@ -228,4 +129,4 @@ const alex = {
 </div>
 
 <!-- Easter egg: view raw to see the source -->
-<!-- Built with: HTML tables, picture elements for theme detection, SVG animations, collapsible details, diff syntax highlighting -->
+<!-- Built with: HTML tables, picture elements for theme detection, SVG animations, diff syntax highlighting -->
