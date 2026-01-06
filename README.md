@@ -39,15 +39,6 @@ Some Markdown renderers (local previews, certain IDEs) don't fully support <pict
 or block remote images. The plain Markdown embed below is the most compatible option.
 -->
 
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&hide_border=true&include_all_commits=true&cache_seconds=21600)](https://github.com/AlexJwijat)
-
-<!-- HTML fallback for renderers that don't like Markdown inside <div> -->
-<img src="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&hide_border=true&include_all_commits=true&cache_seconds=21600" alt="GitHub stats" />
-
-</div>
-
 ---
 
 ## About
