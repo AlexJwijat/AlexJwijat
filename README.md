@@ -32,14 +32,6 @@ Design goals: fast to scan, works in light/dark, "advanced" without being noisy.
   </ul>
 </details>
 
----
-
-<!--
-Some Markdown renderers (local previews, certain IDEs) don't fully support <picture>/<source>
-or block remote images. The plain Markdown embed below is the most compatible option.
--->
-
----
 
 ## About
 
