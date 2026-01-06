@@ -8,7 +8,6 @@
 <!-- Animated metrics bar -->
 <img src="https://img.shields.io/badge/SYSTEMS-online-58a6ff?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/STATUS-coding-58a6ff?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LOCATION-Riverside%2C%20CA-58a6ff?style=flat-square&labelColor=0d1117" />
 
 </div>
 
@@ -118,11 +117,16 @@ const alex = {
 ### 💻 Languages
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&bg_color=00000000&title_color=0969da&text_color=24292f&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,bash&theme=dark" alt="languages" />
+</picture>
+<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&hide_title=true&hide_progress=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&hide_title=true&hide_progress=true&bg_color=00000000&title_color=0969da&text_color=24292f&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=21600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJwijat&layout=compact&hide_title=true&hide_progress=true&hide_border=true&langs_count=10&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </picture>
 </div>
 
