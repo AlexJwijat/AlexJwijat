@@ -34,12 +34,18 @@ Design goals: fast to scan, works in light/dark, "advanced" without being noisy.
 
 ---
 
+<!--
+Some Markdown renderers (local previews, certain IDEs) don't fully support <picture>/<source>
+or block remote images. The plain Markdown embed below is the most compatible option.
+-->
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&cache_seconds=21600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true&include_all_commits=true&cache_seconds=21600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&hide_border=true&include_all_commits=true" alt="github stats" />
-  </picture>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&hide_border=true&include_all_commits=true&cache_seconds=21600)](https://github.com/AlexJwijat)
+
+<!-- HTML fallback for renderers that don't like Markdown inside <div> -->
+<img src="https://github-readme-stats.vercel.app/api?username=AlexJwijat&show_icons=true&rank_icon=github&hide_title=true&hide_border=true&include_all_commits=true&cache_seconds=21600" alt="GitHub stats" />
+
 </div>
 
 ---
@@ -49,11 +55,6 @@ Design goals: fast to scan, works in light/dark, "advanced" without being noisy.
 - **Systems-minded builder**: I like robust architectures, sharp observability, and small, composable primitives.
 - **Product engineering**: I optimize for real-world outcomes—speed, stability, and maintainability.
 - **Always learning**: new patterns, better tooling, and cleaner execution.
-
-## Now
-
-- **Current focus**: platform engineering, developer experience, and high-signal observability.
-- **Actively exploring**: performance profiling, distributed systems patterns, and secure-by-default design.
 
 ---
 
